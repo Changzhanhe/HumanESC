@@ -1,6 +1,6 @@
-0.0.1 `2022-6-19`
+0.0.1 `2022-7-11`
 ~~~~~~~~~~~~~~~~~~~
 
 .. rubric:: Feature
 
-- Release MultiSpace
+- Release HumanESC m6a Pipeline
