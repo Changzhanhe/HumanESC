@@ -51,14 +51,14 @@ M3i vs WT PES:
 
 PCA结果:
 
-.. image:: ../_static/img/thumbnail/m3i_wt_nes_pca.png
+.. image:: ../_static/img/thumbnail/m3i_wt_pes_pca.png
    :height: 400px
    :align: center
 
 
 PCC结果:
 
-.. image:: ../_static/img/thumbnail/m3i_wt_nes_pcc.png
+.. image:: ../_static/img/thumbnail/m3i_wt_pes_pcc.png
    :height: 400px
    :align: center
 
@@ -81,7 +81,7 @@ GO分析:
 
 仅downgene在GO上富集:
 
-.. image:: ../_static/img/thumbnail/m3kd_wt_nes_downgene.png
+.. image:: ../_static/img/thumbnail/m3kd_wt_nes_downgene_go.png
    :height: 400px
    :align: center
 
@@ -100,7 +100,7 @@ GO分析:
 
 仅downgene在GO上富集:
 
-.. image:: ../_static/img/thumbnail/m3i_wt_pes_downgene.png
+.. image:: ../_static/img/thumbnail/m3i_wt_pes_downgene_go.png
    :height: 400px
    :align: center
 
