@@ -13,7 +13,7 @@ Human ESC m6A analysis results
 
 |Docs|
 
-.. |Docs| .. image:: https://readthedocs.org/projects/humanesc/badge/?version=latest
+.. |Docs| image:: https://readthedocs.org/projects/humanesc/badge/?version=latest
    :target: https://humanesc.readthedocs.io
 
 
